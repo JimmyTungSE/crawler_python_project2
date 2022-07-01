@@ -18,4 +18,4 @@ jobs:
           pip install -r requirements.txt
       - name: python main
         run: |
-          python3 main.py
+          python3 weather.py
